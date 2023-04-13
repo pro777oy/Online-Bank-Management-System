@@ -9,7 +9,5 @@ From the class Account, two classes have inherited, namely, Savings Account and 
 4.	A Customer can have one Savings Account which is an association, one–to–one
 
 
-. 
-
 
 
